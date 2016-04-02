@@ -16,11 +16,7 @@
 - Ben Simpson (Mentor)
 - Tharun Konduru
 - Marisa Toodle
-- Caity Cogdell
-- David Hope (Mentee)
-- Anika Jaffara
-- Kavodel Lasode
-- Krista Prenesti
+- Bennett Gaddes
 
 Every participant [can add themselves](https://github.com/welcome-to-open-source/atlanta/issues/1) before or at the beginning of the event
 
